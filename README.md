@@ -2,6 +2,9 @@
 Here I will store my sql injection notes and payloads. It will help to a beginner to learn about sql injection from scratch.
 
 
+![Minion](https://github.com/b0mk35h/image/blob/main/mainbannersql_(2).png)
+
+
 # What is SQL Injection?
 
 SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input in order to affect the execution of predefined SQL commands.
