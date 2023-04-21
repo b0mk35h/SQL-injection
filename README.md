@@ -2,7 +2,7 @@
 Here I will store my sql injection notes and payloads. It will help to a beginner to learn about sql injection from scratch.
 
 
-![Minion](https://github.com/b0mk35h/image/blob/main/mainbannersql_(2).png)
+![Minion](https://avinetworks.com/wp-content/uploads/2020/04/sql-injection-attack-diagram.png)
 
 
 # What is SQL Injection?
