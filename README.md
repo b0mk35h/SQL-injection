@@ -1,7 +1,7 @@
 # SQL-Injection
 Here I will store my sql injection notes and payloads. It will help to a beginner to learn about sql injection from scratch.
 
-# SQL Injection
+
 
 [paylod](https://www.notion.so/paylod-5badd99f1dad4cc087bb4dcdb8884283)
 
