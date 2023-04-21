@@ -2,13 +2,6 @@
 Here I will store my sql injection notes and payloads. It will help to a beginner to learn about sql injection from scratch.
 
 
-
-[paylod](https://www.notion.so/paylod-5badd99f1dad4cc087bb4dcdb8884283)
-
-[chat sheet](https://www.notion.so/chat-sheet-481234e9b01f4a40812b45089a2e2d09)
-
-Payload Link:[https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
-
 # What is SQL Injection?
 
 SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input in order to affect the execution of predefined SQL commands.
